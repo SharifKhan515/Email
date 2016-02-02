@@ -1,0 +1,50 @@
+h1 {
+color:blue;
+font-size:50px;
+text-align:center;
+padding: 30px;
+
+}
+h2 {
+color:blue;
+font-size:50px;
+text-align:center;
+
+}
+body {
+	
+	background-color:black;
+	color:white;
+}
+div {
+border:2px dotted blue;
+position:absolute;
+}
+     a:link {
+	 color:green;
+	 text-decoration:none;
+	 
+	 }
+	 a:visited {
+	 color:red;
+	 
+	 }
+	 a:hover {
+	 background-color:blue;
+	 color:white;
+	 text-decoration:underline;
+	 
+	 
+	 }
+	 a:active{
+	 color:orange;}
+	 p {
+      padding: 30px;
+     color:blue;
+	 font-family:arial;
+	 line-height:180%;
+	 text-indent:30px;
+	 margin:100px;
+	 }
+
+	  
